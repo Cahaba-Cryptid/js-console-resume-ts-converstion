@@ -1,0 +1,26 @@
+{
+  "name": "js-console-resume-ts-converstion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkingWizard/js-console-resume-ts-converstion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkingWizard/js-console-resume-ts-converstion/issues"
+  },
+  "homepage": "https://github.com/ParkingWizard/js-console-resume-ts-converstion#readme",
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "jquery": "^3.4.0",
+    "typescript": "^3.4.5"
+  }
+}
